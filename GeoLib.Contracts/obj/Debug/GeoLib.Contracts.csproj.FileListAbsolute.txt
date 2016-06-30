@@ -1,0 +1,6 @@
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Contracts\bin\Debug\GeoLib.Contracts.dll.config
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Contracts\bin\Debug\GeoLib.Contracts.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Contracts\bin\Debug\GeoLib.Contracts.pdb
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.pdb

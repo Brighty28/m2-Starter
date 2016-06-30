@@ -1,0 +1,12 @@
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Data\bin\Debug\GeoLib.Data.dll.config
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Data\bin\Debug\GeoLib.Data.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Data\bin\Debug\GeoLib.Data.pdb
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Data\bin\Debug\EntityFramework.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Data\bin\Debug\GeoLib.Core.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Data\bin\Debug\GeoLib.Core.pdb
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Data\bin\Debug\EntityFramework.xml
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Data\obj\Debug\GeoLib.Data.csprojResolveAssemblyReference.cache
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Data\obj\Debug\GeoLib.Data.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Data\obj\Debug\GeoLib.Data.pdb

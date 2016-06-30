@@ -1,0 +1,14 @@
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\bin\Debug\GeoLib.Services.dll.config
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\bin\Debug\GeoLib.Services.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\bin\Debug\GeoLib.Services.pdb
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\bin\Debug\GeoLib.Contracts.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\bin\Debug\GeoLib.Core.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\bin\Debug\GeoLib.Data.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\bin\Debug\EntityFramework.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\bin\Debug\GeoLib.Contracts.pdb
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\bin\Debug\GeoLib.Core.pdb
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\bin\Debug\GeoLib.Data.pdb
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\bin\Debug\EntityFramework.xml
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\obj\Debug\GeoLib.Services.csprojResolveAssemblyReference.cache
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\obj\Debug\GeoLib.Services.dll
+C:\Users\andrew.bright\Documents\GitHub\m2-Starter\GeoLib.Services\obj\Debug\GeoLib.Services.pdb
